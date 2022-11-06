@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/iconlar">
+        <file>BasicLogo.png</file>
+    </qresource>
+</RCC>
