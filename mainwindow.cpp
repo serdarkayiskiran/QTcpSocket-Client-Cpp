@@ -58,7 +58,7 @@ void MainWindow::on_baglantiKesButon_clicked()
 
 void MainWindow::on_mesajGonderButon_clicked()
 {
-
+ //test
 
     if(ui->mesajGonderLineEdit->text()=="")
     {
