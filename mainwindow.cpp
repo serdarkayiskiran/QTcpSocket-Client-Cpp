@@ -84,6 +84,7 @@ void MainWindow::on_mesajGonderButon_clicked()
 
 void MainWindow::readyRead()
 {
+    //test
     QByteArray veri;
     veri = baglantiNoktasi->readAll();
     ui->terminalLineEdit->appendPlainText("Server : "+QString(veri));
